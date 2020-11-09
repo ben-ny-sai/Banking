@@ -1,0 +1,98 @@
+/* same font among all elements */
+body{
+   font-family: "Montserrat";
+ }
+
+/* Top section of image sliders */
+.bottom-container{
+  position: relative;
+
+}
+
+.image-details{
+  position: relative;
+  text-align: center;
+  bottom: 150px;
+}
+
+h2,p{
+  color: #fff;
+}
+
+/* middle section(about us) */
+#middle{
+  text-align: center;
+  padding: 0 15%;
+}
+.middle-heading{
+  font-family: "Montserrat-Bold";
+  color: #01c5c4;
+  padding: 0 1% 4% 1%;
+  font-size: 3rem;
+}
+.middle-heading:hover{
+  color:#ff8e6e;
+}
+.card_text{
+  color:#01c5c4;
+  line-height: 1.2;
+}
+
+/* call to action */
+#cta{
+  padding: 3% 15%;
+  color: #01c5c4;
+  text-align: center;
+  line-height: 2.5;
+  font-family: "Montserrat-Bold";
+  font-size: 2rem;
+}
+
+
+/* footer */
+#footer{
+
+  padding: 2% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin: 2% 2%;
+}
+.footer-text{
+  color: black;
+}
+
+
+/* Donation page styles */
+.boy-img{
+  width: 100%;
+  position: relative;
+}
+.help-text{
+  color: #fff;
+  line-height: 2.0;
+  font-size: 2.5;
+  bottom: 30%;
+  position: absolute;
+  text-align: center;
+  right: 60%;
+}
+
+/* payment-section */
+#payment{
+  text-align: center;
+  padding: 2% 7%;
+}
+.payment-box{
+  left: 30%;
+  color: #01c5c4;
+}
+.pay-text{
+  padding: 2% 0;
+  color:#01c5c4;
+  font-family: "Montserrat-Bold";
+  font-size: 3rem;
+}
+.pay-para{
+  color: #01c5c4;
+}
